@@ -1,5 +1,5 @@
 # InteractiveForm
-An interactive form with validation for a fictious fullstack conference.
+An interactive form for a fictious fullstack conference. JavaScript was used to add validation
 
 # Languages
 HTML, CSS, JavaScript 
